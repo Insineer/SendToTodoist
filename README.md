@@ -8,7 +8,7 @@
 Tasks and requests often arrive via Telegram. Instead of copy-pasting into Todoist, just forward the message to the bot — it becomes a task you can triage later.
 
 
-<img width="1510" height="932" alt="image" src="https://github.com/user-attachments/assets/6bbfc7c3-62f1-4dd5-8aa7-ae9e708f67d1" />
+<img src="https://github.com/user-attachments/assets/6bbfc7c3-62f1-4dd5-8aa7-ae9e708f67d1" />
 
 ## What it does
 
