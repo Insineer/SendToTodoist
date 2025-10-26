@@ -42,10 +42,11 @@ Tasks and requests often arrive via Telegram. Instead of copy-pasting into Todoi
 
 ## Privacy & data handling
 
-- **No message storage:** the bot does **not** store or log message text or task content.  
-- **Stateless by design:** payloads are relayed to Todoist and **discarded immediately**.  
-- **Minimum necessary data:** to function, the bot keeps only what’s required to send tasks (e.g., your Telegram user ID and a Todoist access token).  
+- **No message storage:** the bot does **not** store or log message text or task content.
 - **No analytics on task content.**
+- **Stateless by design:** payloads are relayed to Todoist and **discarded immediately**.  
+- **Minimum necessary data:** to function, the bot keeps only what’s required to send tasks (e.g., your Telegram user ID and a Todoist access token).
+- **We will never sell or share any user data with third companies.**
 
 > This is an **unofficial integration**. Doist/Todoist are not affiliated with this project.
 
